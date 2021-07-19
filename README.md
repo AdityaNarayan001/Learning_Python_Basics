@@ -1,2 +1,3 @@
 # Learning_Python_Basics
-Basic Python Examples
+
+The repo contains basic(get going) python codes.
