@@ -1,0 +1,3 @@
+# this is how we input coments these are not run in code its for programmers understanding
+#or it is used as reminder
+#use comments for WHY and HOW not for WHAT......

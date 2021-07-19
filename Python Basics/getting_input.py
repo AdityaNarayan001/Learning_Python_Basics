@@ -1,0 +1,7 @@
+print('*********GETTING INPUTS*************')
+name = input('What is your name ? ')
+print('Hi ' + name)
+print('**********TASK***************')
+user_name = input('What is your name user ? ')
+fav_color = input('What is your fav color ? ')
+print(user_name + ' likes ' + fav_color)

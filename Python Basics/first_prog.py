@@ -1,0 +1,8 @@
+print('*'*20)
+print("Hello Aditya")
+print('*'*20)
+print('Below is a dog')
+print('*'*20)
+print('O----')
+print(' ||||')
+print('*'*20)
